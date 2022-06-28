@@ -1,8 +1,13 @@
-[
 {
-  "api" : {
-    "key" : "sdljkfskdjfskdfjlsdf",
-    "value" : "lajdkljdkqsdqsd"
-  }
+  "api" : [
+    {
+      "key" : "key 1",
+      "value" : "lajdkljdkqsdqsd"
+    },
+    {
+      "key" : "key 2",
+      "value" : "lajdkljdkqsdqsd"
+    }
+  ]
 }
-]
+
